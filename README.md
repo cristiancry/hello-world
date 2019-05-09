@@ -1,5 +1,10 @@
 # hello-world
 
 
-Hola esto es un ejemplo
-un reporsitorio
+Public hola
+{
+    Public void causalidad
+     {
+        System.out.println(“hola, me presento soy un pendejo“);
+      } 
+} 
